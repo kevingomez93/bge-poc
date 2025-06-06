@@ -1,0 +1,11 @@
+# Virtual Environment
+bge_poc_venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/ 
