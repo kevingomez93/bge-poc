@@ -47,3 +47,8 @@ python bge_poc.py
 ```
 
 The script will download the pre-trained model, perform the embedding and similarity calculations, and print the results to the console. 
+
+
+
+
+<img width="1330" alt="image" src="https://github.com/user-attachments/assets/d1641dbb-ccae-498a-a048-c90fea9f5d06" />
